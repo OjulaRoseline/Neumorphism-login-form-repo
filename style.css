@@ -10,7 +10,7 @@ body{
     align-items: center;
     min-height:100vh ;
     background-color:#e0e5ec ;
-    background-image: url (https://www.rawpixel.com/image/14209481/robot-and-flowers-art-painting-plant)
+    background-image:url(https://www.rawpixel.com/image/14209481/robot-and-flowers-art-painting-plant);
 }
 .container{
     width:100% ;
